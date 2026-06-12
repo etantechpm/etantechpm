@@ -17,7 +17,7 @@
 
 ### 🌏 What I do
 
-I'm a senior product leader specializing in **globalization and AI-powered localization** — turning global complexity into products that scale. Currently at **Disney**; previously **Google** and **SDL / RWS**.
+I'm a senior product leader specializing in **globalization and AI-powered localization** — turning global complexity into products that scale. Currently at **Disney**; previously **SDL / RWS**.
 
 - 🚀 Led global product expansion across **33 languages** and **155 countries**
 - 🤖 Shipped AI initiatives that **2×'d delivery speed** and cut cost **46%**
